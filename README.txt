@@ -1,0 +1,1 @@
+Projetos desenvolvidos durante fase de estudos com Java e Android
