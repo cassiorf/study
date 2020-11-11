@@ -1,10 +1,10 @@
 
-Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(¼úš‘
+—
+java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±
 N
 java:S25893"8Remove this expression which always evaluates to "false"(ß÷Ãº
 s
 java:S1450"]Remove the "seekBarGorjeta" field and declare it as a local variable in the relevant methods.(ñë¦Æ
 œ
 java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
-—
-java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
