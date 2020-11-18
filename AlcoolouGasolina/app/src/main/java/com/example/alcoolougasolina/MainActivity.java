@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity {
     public void calcularPreco(View view) {
         if (validarCampos(precoAlcool.getText().toString(), precoGasolina.getText().toString())) {
             if ((Double.parseDouble(precoAlcool.getText().toString()) / Double.parseDouble(precoGasolina.getText().toString())) >= 0.7)
-                textoResultado.setText("Gasolina é melhor");
+                textoResultado.setText("Gasolina é melhor!");
             else
-                textoResultado.setText("Álcool é melhor");
+                textoResultado.setText("Álcool é melhor!");
         } else {
             textoResultado.setText("Preencha todos os campos!");
         }
