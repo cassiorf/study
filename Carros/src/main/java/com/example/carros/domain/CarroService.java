@@ -32,7 +32,7 @@ public class CarroService {
         return rep.findById(id);
     }
 
-    public Iterable<Carro> getCarrosByTipo(String tipo) {
+    public List<Carro> getCarrosByTipo(String tipo) {
         return rep.findByTipo(tipo);
     }
 
